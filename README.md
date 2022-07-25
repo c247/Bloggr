@@ -1,2 +1,2 @@
 # grpcFun
-Made many microservices using grpc! part of Udemy course
+Made many microservices using grpc with Go! part of Udemy course
